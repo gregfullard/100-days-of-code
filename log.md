@@ -23,7 +23,7 @@ After a series of 16-hour days at the office, I was a bit behind on my 100 day c
 **Today's Progress:**
 Finished the Gatsby tutorial. With various digressions along the way.
 
-**Thoughst:** Realised, yet again, that there is a ton of stuff that happenned in the Javascript world over the last few years while I was stuch in Java-land. The front-end journey is looking exciting.
+**Thoughst:** Realised, yet again, that there is a ton of stuff that happened in the Javascript world over the last few years while I was stuck in Java-land. The front-end journey is looking exciting.
 
 **Links:** https://www.gatsbyjs.org/tutorial/
 
