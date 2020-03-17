@@ -27,5 +27,13 @@ Finished the Gatsby tutorial. With various digressions along the way.
 
 **Links:** https://www.gatsbyjs.org/tutorial/
 
+### Day 7, 8: 2020-03-17
+
+**Today's Progress:**
+Finished the Responsive Web Design challenges on FreeCodeCamp. Now onto the projects.
+
+**Thoughst:** CSS Grid is really cool, but I'm struggling to fully graph when you would use flexbox and when CSS grid is more appropriate.
+
+**Links:** https://www.freecodecamp.org/learn
 
 
