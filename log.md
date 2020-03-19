@@ -23,7 +23,7 @@ After a series of 16-hour days at the office, I was a bit behind on my 100 day c
 **Today's Progress:**
 Finished the Gatsby tutorial. With various digressions along the way.
 
-**Thoughst:** Realised, yet again, that there is a ton of stuff that happened in the Javascript world over the last few years while I was stuck in Java-land. The front-end journey is looking exciting.
+**Thoughts:** Realised, yet again, that there is a ton of stuff that happened in the Javascript world over the last few years while I was stuck in Java-land. The front-end journey is looking exciting.
 
 **Links:** https://www.gatsbyjs.org/tutorial/
 
@@ -32,8 +32,16 @@ Finished the Gatsby tutorial. With various digressions along the way.
 **Today's Progress:**
 Finished the Responsive Web Design challenges on FreeCodeCamp. Now onto the projects.
 
-**Thoughst:** CSS Grid is really cool, but I'm struggling to fully graph when you would use flexbox and when CSS grid is more appropriate.
+**Thoughts:** CSS Grid is really cool, but I'm struggling to fully graph when you would use flexbox and when CSS grid is more appropriate.
 
 **Links:** https://www.freecodecamp.org/learn
 
+### Day 9, 10: 2020-03-19
+
+**Today's Progress:**
+Finished the Tribute project (project 1 of 5) in the Responsive Web Design section on FreeCodeCamp.
+
+**Thoughts:** Jeepers, I needed to reference back to the material for almost everything.
+
+**Links:** https://codepen.io/gregfullard1/pen/WNvKrLJ
 
