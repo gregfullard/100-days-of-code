@@ -45,3 +45,14 @@ Finished the Tribute project (project 1 of 5) in the Responsive Web Design secti
 
 **Links:** https://codepen.io/gregfullard1/pen/WNvKrLJ
 
+### Day 11: 2020-03-20
+
+**Today's Progress:**
+Started basic Javascript challenges on FreeCodeCamp.
+
+**Thoughts:** Running through them quickly, but actually learned a few things along the way. Just proves that you can always learn more.
+
+**Links:** https://www.freecodecamp.org/learn
+
+
+
