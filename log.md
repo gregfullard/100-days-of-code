@@ -54,5 +54,12 @@ Started basic Javascript challenges on FreeCodeCamp.
 
 **Links:** https://www.freecodecamp.org/learn
 
+### Day 12 & 13: 2020-03-22
 
+**Today's Progress:**
+Finished the landing page for LunchTimeLearning. Now onto the other pages: About, FAQ and Credits
+
+**Thoughts:** Still a slow struggle, but was greatly helped by Gary Simon's videos on YouTube. Really think I should consider building a basic web page almost every day to get used to the various effects of CSS
+
+**Links:** https://www.youtube.com/watch?v=6ln_PFw_dYU&t=663s
 
