@@ -63,3 +63,11 @@ Finished the landing page for LunchTimeLearning. Now onto the other pages: About
 
 **Links:** https://www.youtube.com/watch?v=6ln_PFw_dYU&t=663s
 
+### Day 14: 2020-03-23
+
+**Today's Progress:**
+Got yo 80/100 on the Javascript challenges on FreeCodeCamp.
+
+**Thoughts:** Running as fast as I can, all quite basic up to now
+
+**Links:** https://www.freecodecamp.org/learn
