@@ -66,8 +66,17 @@ Finished the landing page for LunchTimeLearning. Now onto the other pages: About
 ### Day 14: 2020-03-23
 
 **Today's Progress:**
-Got yo 80/100 on the Javascript challenges on FreeCodeCamp.
+Got to 80/110 on the Javascript challenges on FreeCodeCamp.
 
 **Thoughts:** Running as fast as I can, all quite basic up to now
+
+**Links:** https://www.freecodecamp.org/learn
+
+### Day 15: 2020-03-25
+
+**Today's Progress:**
+ Took yesterday off due to all the trauma related to the national lockdown. Back at it today though. Got to 101/110 on the Javascript challenges on FreeCodeCamp.
+
+**Thoughts:** Still very basic, but starting to have to think before I type. I like it.
 
 **Links:** https://www.freecodecamp.org/learn
