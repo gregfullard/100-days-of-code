@@ -86,7 +86,7 @@ Got to 80/110 on the Javascript challenges on FreeCodeCamp.
 **Today's Progress:**
 Built the survey form project in the @freeCodeCamp Responsive Web Design cert.
 
-**Thoughts:** Building the form to pass the tests was very easy, but it took me quite a while to get the styling acceptable. Still a long road ahead before I feel compartable on the front-end
+**Thoughts:** Building the form to pass the tests was very easy, but it took me quite a while to get the styling acceptable. Still a long road ahead before I feel comfortable on the front-end
 
 **Links:** https://codepen.io/gregfullard1/pen/KKpbVMw
 
