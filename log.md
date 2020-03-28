@@ -80,3 +80,13 @@ Got to 80/110 on the Javascript challenges on FreeCodeCamp.
 **Thoughts:** Still very basic, but starting to have to think before I type. I like it.
 
 **Links:** https://www.freecodecamp.org/learn
+
+### Day 16-18: 2020-03-28
+
+**Today's Progress:**
+Built the survey form project in the @freeCodeCamp Responsive Web Design cert.
+
+**Thoughts:** Building the form to pass the tests was very easy, but it took me quite a while to get the styling acceptable. Still a long road ahead before I feel compartable on the front-end
+
+**Links:** https://codepen.io/gregfullard1/pen/KKpbVMw
+
