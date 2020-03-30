@@ -90,3 +90,12 @@ Built the survey form project in the @freeCodeCamp Responsive Web Design cert.
 
 **Links:** https://codepen.io/gregfullard1/pen/KKpbVMw
 
+### Day 19: 2020-03-29
+
+**Today's Progress:**
+Finally got going on Neo4J. 
+
+**Thoughts:** After much deliberation, I decided to select Neo4J as the database for the skills ontology I'm building for LunchTimeLearning. Other main candidate was JCR. 
+
+**Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
+
