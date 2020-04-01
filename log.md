@@ -99,3 +99,11 @@ Finally got going on Neo4J.
 
 **Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
 
+### Day 20: 2020-04-01
+
+**Today's Progress:**
+Progressed with Neo4J
+
+**Thoughts:** After a 2-day hold-up was finally able to spend sopme time on this project. Starting to grash Cypher queries used in Neo4J.  
+
+**Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
