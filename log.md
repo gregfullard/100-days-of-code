@@ -107,3 +107,12 @@ Progressed with Neo4J
 **Thoughts:** After a 2-day hold-up was finally able to spend sopme time on this project. Starting to grash Cypher queries used in Neo4J.  
 
 **Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
+
+### Day 21: 2020-04-02
+
+**Today's Progress:**
+Continuing with the Neo4J course, but started building the skills ontology using Cypher
+
+**Thoughts:** Will be some time before I'm an absolute expert, but Neo4J is extremely intuitive  
+
+**Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
