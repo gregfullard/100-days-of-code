@@ -116,3 +116,13 @@ Continuing with the Neo4J course, but started building the skills ontology using
 **Thoughts:** Will be some time before I'm an absolute expert, but Neo4J is extremely intuitive  
 
 **Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
+
+
+### Day 22: 2020-04-03
+
+**Today's Progress:**
+Slow day, started working through @FreeCodeCamp ES6 challenges
+
+**Thoughts:** Gonna need to do a lot of ES6 coding before this comes naturally to me. 
+
+**Links:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6
