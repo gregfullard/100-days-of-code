@@ -126,3 +126,12 @@ Slow day, started working through @FreeCodeCamp ES6 challenges
 **Thoughts:** Gonna need to do a lot of ES6 coding before this comes naturally to me. 
 
 **Links:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6
+
+### Day 23: 2020-04-04
+
+**Today's Progress:**
+Finished @FreeCodeCamp ES6 challenges. Lots of work on the Neo4J skills ontology for @DevSkillDojo.
+
+**Thoughts:** Really suffering from shiny object syndrome, and struggling to get into a real flow state 
+
+**Links:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6
