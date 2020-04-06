@@ -117,7 +117,6 @@ Continuing with the Neo4J course, but started building the skills ontology using
 
 **Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
 
-
 ### Day 22: 2020-04-03
 
 **Today's Progress:**
@@ -135,3 +134,13 @@ Finished @FreeCodeCamp ES6 challenges. Lots of work on the Neo4J skills ontology
 **Thoughts:** Really suffering from shiny object syndrome, and struggling to get into a real flow state 
 
 **Links:** https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6
+
+### Day 24: 2020-04-05
+
+**Today's Progress:**
+Continuing with the @Neo4J course. finished the section on advanced Cycpher queries and now moving onto creating nodes and relationships.
+
+**Thoughts:** Although Cypher is quite different from SQL, the best way to understand Cypher is to map the concepts to similar concepts in SQL.
+
+**Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
+
