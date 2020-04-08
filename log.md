@@ -144,3 +144,12 @@ Continuing with the @Neo4J course. finished the section on advanced Cycpher quer
 
 **Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
 
+### Day 25: 2020-04-07
+
+**Today's Progress:**
+Continuing with the @Neo4J course. Finished section 7 (Creating data). Now finally onto the last section before I can feel reasonably comfortable to actually build stuff.
+
+**Thoughts:** Some days I'm really struggling to find time and motivation. Often I have one or the other. But having both is rare.
+
+**Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
+
