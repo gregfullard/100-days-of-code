@@ -153,3 +153,12 @@ Missed a day, but continuing with the @Neo4J course. Finished section 7 (Creatin
 
 **Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
 
+### Day 26: 2020-04-08
+
+**Today's Progress:**
+Continuing with the @Neo4J course. Looked at analysing queries with EXPLAIN and PROFILE. 
+
+**Thoughts:** I couldn't get the query to terminate from the second browser
+
+**Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
+
