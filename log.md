@@ -162,3 +162,12 @@ Continuing with the @Neo4J course. Looked at analysing queries with EXPLAIN and 
 
 **Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
 
+### Day 27-28: 2020-04-10
+
+**Today's Progress:**
+With many stops and starts I finally completed the @Neo4J course. Ready to start using it properly
+
+**Thoughts:**Just happy to be done
+
+**Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
+
