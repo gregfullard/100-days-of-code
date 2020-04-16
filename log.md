@@ -167,7 +167,16 @@ Continuing with the @Neo4J course. Looked at analysing queries with EXPLAIN and 
 **Today's Progress:**
 With many stops and starts I finally completed the @Neo4J course. Ready to start using it properly
 
-**Thoughts:**Just happy to be done
+**Thoughts:** Just happy to be done
 
 **Links:** https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/
+
+### Day 29: 2020-04-16
+
+**Today's Progress:**
+Took some days off to recover my Mojo. Spent this morning assembling the skeleton Cypher script for the @DevSkillDojo skills ontology.
+
+**Thoughts:** As always, once you build your own stuff, you immediately notice the gaps in your knowledge, but this is a great way to learn more.
+
+**Links:** N/A
 
