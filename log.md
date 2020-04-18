@@ -180,3 +180,12 @@ Took some days off to recover my Mojo. Spent this morning assembling the skeleto
 
 **Links:** N/A
 
+### Day 30: 2020-04-17
+
+**Today's Progress:**
+Added the first proper graph relationships to the @DevSkillDojo skills ontology.
+
+**Thoughts:** Baby steps
+
+**Links:** N/A
+
