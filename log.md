@@ -189,3 +189,11 @@ Added the first proper graph relationships to the @DevSkillDojo skills ontology.
 
 **Links:** N/A
 
+### Day 31: 2020-04-18
+
+**Today's Progress:**
+Built a basic SpringBoot REST service which accesses the @DevSkillDojo skills ontology using Spring Data and the @Neo4J OGM Bolt driver.
+
+**Thoughts:** The level of standardisation that Spring Data has brought to the party is really making polyglot persistence a reality
+
+**Links:** N/A
