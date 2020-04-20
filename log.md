@@ -203,6 +203,6 @@ Built a basic SpringBoot REST service which accesses the @DevSkillDojo skills on
 **Today's Progress:**
 Adding support for POST requests in the skills ontology service. Also added a Postman project to make consistent testing a bit easier.
 
-**Thoughts:** Pulling relationships from the Neo4J graph is no workinbg as expected yet, but will figure it out tomorrow
+**Thoughts:** Pulling relationships from the Neo4J graph is not working as expected yet, but will figure it out tomorrow
 
 **Links:** N/A
