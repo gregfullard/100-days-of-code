@@ -197,3 +197,12 @@ Built a basic SpringBoot REST service which accesses the @DevSkillDojo skills on
 **Thoughts:** The level of standardisation that Spring Data has brought to the party is really making polyglot persistence a reality
 
 **Links:** N/A
+
+### Day 32: 2020-04-19
+
+**Today's Progress:**
+Adding support for POST requests in the skills ontology service. Also added a Postman project to make consistent testing a bit easier.
+
+**Thoughts:** Pulling relationships from the Neo4J graph is no workinbg as expected yet, but will figure it out tomorrow
+
+**Links:** N/A
