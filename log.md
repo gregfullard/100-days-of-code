@@ -206,3 +206,12 @@ Adding support for POST requests in the skills ontology service. Also added a Po
 **Thoughts:** Pulling relationships from the Neo4J graph is not working as expected yet, but will figure it out tomorrow
 
 **Links:** N/A
+
+### Day 33: 2020-04-20
+
+**Today's Progress:**
+Added SpringBoot REST methods for creating new skills (with specified perspective and parent). Also resolved issue which caused relationships not to serialize correctly to JSON.
+
+**Thoughts:** as with all Object to JSON serialisation, there is a risk of massive trees of JSON going back. I might really need to investigate GraphQL instead of REST
+
+**Links:** N/A
