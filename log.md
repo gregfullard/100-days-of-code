@@ -215,3 +215,12 @@ Added SpringBoot REST methods for creating new skills (with specified perspectiv
 **Thoughts:** as with all Object to JSON serialisation, there is a risk of massive trees of JSON going back. I might really need to investigate GraphQL instead of REST
 
 **Links:** N/A
+
+### Day 34: 2020-04-21
+
+**Today's Progress:**
+Refactored SpringBoot skills API slightly. Nothing earth-shaking, but cleaning up controllers and PathParams. Also changed the domain model slightly to allow the specification of prerequisite skills.
+
+**Thoughts:** Need to work through a REST best practices book at some stage, just to ensure I'm doing things in the best possible way.
+
+**Links:** N/A
