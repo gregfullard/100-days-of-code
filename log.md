@@ -233,3 +233,12 @@ Spent an hour trying to figure out why Spring Data Neo4J was not pulling related
 **Thoughts:** Easy in the end, but weird how one starts doubting your own capabilities.
 
 **Links:** N/A
+
+### Day 36: 2020-04-23
+
+**Today's Progress:**
+Adding API method to create skills along with prerequisite skills, based on the weak-prerequisite relationship in the domain model.
+
+**Thoughts:** Just a few more API method to go and then we can get into the Python side of things. Whoop whoop.
+
+**Links:** N/A
