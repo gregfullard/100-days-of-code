@@ -224,3 +224,12 @@ Refactored SpringBoot skills API slightly. Nothing earth-shaking, but cleaning u
 **Thoughts:** Need to work through a REST best practices book at some stage, just to ensure I'm doing things in the best possible way.
 
 **Links:** N/A
+
+### Day 35: 2020-04-22
+
+**Today's Progress:**
+Spent an hour trying to figure out why Spring Data Neo4J was not pulling related objects from the graph. And and just after posting to the newbie forum, I realised that the Cypher query did not return the relationship. Luckily they forum offers a delete option :)
+
+**Thoughts:** Easy in the end, but weird how one starts doubting your own capabilities.
+
+**Links:** N/A
