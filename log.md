@@ -242,3 +242,12 @@ Adding API method to create skills along with prerequisite skills, based on the 
 **Thoughts:** Just a few more API method to go and then we can get into the Python side of things. Whoop whoop.
 
 **Links:** N/A
+
+### Day 37 & 38: 2020-04-25
+
+**Today's Progress:**
+Adding CRUD API methods for all lookup lists. Also began working on API method for registering learnig resource providers and contenbt creators.
+
+**Thoughts:** Weird issue with handling Object Graph Mapping for recursive relationships. Need to dig a bit deeper.
+
+**Links:** N/A
