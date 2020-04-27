@@ -246,8 +246,17 @@ Adding API method to create skills along with prerequisite skills, based on the 
 ### Day 37 & 38: 2020-04-25
 
 **Today's Progress:**
-Adding CRUD API methods for all lookup lists. Also began working on API method for registering learnig resource providers and contenbt creators.
+Adding CRUD API methods for all lookup lists. Also began working on API method for registering learning resource providers and content creators.
 
 **Thoughts:** Weird issue with handling Object Graph Mapping for recursive relationships. Need to dig a bit deeper.
+
+**Links:** N/A
+
+### Day 39 & 40: 2020-04-27
+
+**Today's Progress:**
+Finished all API methods for the skills ontology microservice. Next up is the Python code to begin populating this @Neo4J graph. Can't wait to see it running.
+
+**Thoughts:** Might be necessary to change around the directions of relationships when I get more familiar with the domain model
 
 **Links:** N/A
