@@ -260,3 +260,12 @@ Finished all API methods for the skills ontology microservice. Next up is the Py
 **Thoughts:** Might be necessary to change around the directions of relationships when I get more familiar with the domain model
 
 **Links:** N/A
+
+### Day 41 & 42: 2020-04-29
+
+**Today's Progress:**
+Following 2 solid days of coding I have completed most of the Python data upload scripts. In the process needed to refactor quite a number of the skills microservice methods. Just one more to go, let's hope the motivation lasts :)
+
+**Thoughts:** Most complex of the lot now remains, and once I start building the web scraping it is very likely that the CSV formats will need to change.
+
+**Links:** N/A
