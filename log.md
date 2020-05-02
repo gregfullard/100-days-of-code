@@ -269,3 +269,12 @@ Following 2 solid days of coding I have completed most of the Python data upload
 **Thoughts:** Most complex of the lot now remains, and once I start building the web scraping it is very likely that the CSV formats will need to change.
 
 **Links:** N/A
+
+### Day 43 & 44: 2020-05-01
+
+**Today's Progress:**
+Another 2 days of pretty solid coding and I have finally completed the Python data upload scripts. Now I can begin populating the data sheets (manually and by web scraping) to build a comprehensive directory of technical skills and related learning resources.
+
+**Thoughts:** Before I get lost in Web scraping, I should first build out the first set of data by hand. Just in case there are still minor adjustments needed in the model.
+
+**Links:** N/A
