@@ -278,3 +278,12 @@ Another 2 days of pretty solid coding and I have finally completed the Python da
 **Thoughts:** Before I get lost in Web scraping, I should first build out the first set of data by hand. Just in case there are still minor adjustments needed in the model.
 
 **Links:** N/A
+
+### Day 45 & 46: 2020-05-03
+
+**Today's Progress:**
+Took it a bit easiers over the weekend. Started to clean up my @Neo4J data loading scripts and also got half-way with the regular expressions challenges on FreeCodeCamp.
+
+**Thoughts:** None, really
+
+**Links:** N/A
