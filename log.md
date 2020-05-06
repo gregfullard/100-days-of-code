@@ -287,3 +287,12 @@ Took it a bit easiers over the weekend. Started to clean up my @Neo4J data loadi
 **Thoughts:** None, really
 
 **Links:** N/A
+
+### Day 47 & 48: 2020-05-05
+
+**Today's Progress:**
+Finished regular expressions challenges on FreeCodeCamp. Also circled back to the Responsive Web Design Projects. Still need to finish 3.
+
+**Thoughts:** My goodness, seems I have forgetten everything about CSS again :( And after a short stint on the back-end
+
+**Links:** N/A
