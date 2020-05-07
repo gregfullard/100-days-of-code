@@ -296,3 +296,12 @@ Finished regular expressions challenges on FreeCodeCamp. Also circled back to th
 **Thoughts:** My goodness, seems I have forgetten everything about CSS again :( And after a short stint on the back-end
 
 **Links:** N/A
+
+### Day 49: 2020-05-06
+
+**Today's Progress:**
+Still busy with the Project Landing Page project from FreeCodeCamp. Struggling a bit to find sufficient time to really focus at the moment. HTML markup finished at least, but CSS file is still empty
+
+**Thoughts:** To get good at this I will need to: Compile my own cheat sheets, Build at least one website per week
+
+**Links:** N/A
