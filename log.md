@@ -305,3 +305,13 @@ Still busy with the Project Landing Page project from FreeCodeCamp. Struggling a
 **Thoughts:** To get good at this I will need to: Compile my own cheat sheets, Build at least one website per week
 
 **Links:** N/A
+
+### Day 50: 2020-05-22
+
+**Today's Progress:**
+After two weeks of absolute chaos with work and back-office finance, I am finally getting back on the horse by just doing random practice with creating pure HTML and CSS layouts. 
+
+**Thoughts:** I want to get to the point that front-end markup and styling comes just as naturally as chirning out Java code
+
+**Links:** N/A
+
