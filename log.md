@@ -315,3 +315,12 @@ After two weeks of absolute chaos with work and back-office finance, I am finall
 
 **Links:** N/A
 
+### Day 51: 2020-06-11
+
+**Today's Progress:**
+Got back on the horse with the Ontology. Mainly just updating the readme and getting the solution to build
+
+**Thoughts:** Realised the value of a good readme file for side-projects, because when you get back to a code-base for the first time in 3 weeks, you DO NOT want to spend the first hour just remembering how to bootstrap the app.
+
+**Links:** N/A
+
