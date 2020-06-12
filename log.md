@@ -324,3 +324,12 @@ Got back on the horse with the Ontology. Mainly just updating the readme and get
 
 **Links:** N/A
 
+### Day 52: 2020-06-12
+
+**Today's Progress:**
+Built a basic web scraper using Selenium for Java. 
+
+**Thoughts:** Initially tried using JSoup, which is a Java port of the Python Beautiful Soup library. But had some issues with dynamically loaded page content, so then I switched to Selenium.
+
+**Links:** N/A
+
