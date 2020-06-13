@@ -333,3 +333,12 @@ Built a basic web scraper using Selenium for Java.
 
 **Links:** N/A
 
+### Day 53: 2020-06-13
+
+**Today's Progress:**
+Expanded the web scraper to be more robust, including catering for Udemy's blue-green deployment which returns different page layouts at random. Also writing the results into CSV
+
+**Thoughts:** Lots of complexity with web scraping when data is loaded at runtime with Ajax calls
+
+**Links:** N/A
+
