@@ -342,3 +342,12 @@ Expanded the web scraper to be more robust, including catering for Udemy's blue-
 
 **Links:** N/A
 
+### Day 54: 2020-06-14
+
+**Today's Progress:**
+Added some polish and then ran the web scraper the the "full" list of Udemy development courses. 
+
+**Thoughts:** Final results successful, but it seems like they only show the first 10 000 records. Next step would be to do the searching/scraping at a more graunlar level and then aggregate the results. But still, quite chuffed that my code ran for 30 minutes, going through 625 pages and 10625 divs without a single exception.
+
+**Links:** N/A
+
