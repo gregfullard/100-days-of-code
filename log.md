@@ -351,3 +351,11 @@ Added some polish and then ran the web scraper the the "full" list of Udemy deve
 
 **Links:** N/A
 
+### Day 55: 2020-06-15
+
+**Today's Progress:**
+Ported the scraper over to a SpringBoot console app. Also improved logging and the ability to scrape individual Udemy categories and then aggregate them.
+
+**Thoughts:** Scraped 21719 courses in 2.5 hours until the process terminated because it exceeded the configured number of errors allowed by the algorithm. Will run it overnight will a large number of allowed errors, just to see the total, but it seems like there are at least 40 000 courses on Udemy
+
+**Links:** N/A
