@@ -359,3 +359,13 @@ Ported the scraper over to a SpringBoot console app. Also improved logging and t
 **Thoughts:** Scraped 21719 courses in 2.5 hours until the process terminated because it exceeded the configured number of errors allowed by the algorithm. Will run it overnight will a large number of allowed errors, just to see the total, but it seems like there are at least 40 000 courses on Udemy
 
 **Links:** N/A
+
+### Day 56: 2020-06-16
+
+**Today's Progress:**
+Switched track a little bit today and began working on some basic UI views for the ontology. Nothing fancy for now, just some SpringMVC with Thymeleaf templates
+
+**Thoughts:** First time I've really done something with Thymeleaf and it is very similar to sightly
+
+**Links:** N/A
+
