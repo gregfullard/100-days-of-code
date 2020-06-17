@@ -369,3 +369,12 @@ Switched track a little bit today and began working on some basic UI views for t
 
 **Links:** N/A
 
+
+### Day 57: 2020-06-17
+
+**Today's Progress:**
+Continuing on the UI effort, but kinda decided to use this opportunity to build some React skills as well. So I found a fandy course covering ful stack development using SpringBoot and React. Gonna take a few days to work through it fully, but seems like the type of content I need
+
+**Thoughts:** N/A
+
+**Links:** N/A
