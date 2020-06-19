@@ -384,6 +384,6 @@ Continuing on the UI effort, but kinda decided to use this opportunity to build 
 **Today's Progress:**
 In addition to proceeding well on my SpringBoot/React learning, I've been spending a lot of time working on the @DevSkillDojo mockups using Balsamiq. Lesson, as always, before you jump into code/solution, spend time in the problem space to devise a plan of action.
 
-**Thoughts:** N/A
+**Thoughts:** After spending a bit more time on the mockups and user stories, I began to realise that while the web-scraping is important, it should not be the first priority
 
 **Links:** N/A
