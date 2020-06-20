@@ -387,3 +387,12 @@ In addition to proceeding well on my SpringBoot/React learning, I've been spendi
 **Thoughts:** After spending a bit more time on the mockups and user stories, I began to realise that while the web-scraping is important, it should not be the first priority
 
 **Links:** N/A
+
+### Day 59: 2020-06-19
+
+**Today's Progress:**
+Same as yesterday: Working through React/SpringBoot course. Also made significant progress on the mockups for the @DevSkillDojo MVP. Getting quite excited to begin coding this thing! 
+
+**Thoughts:** MVP is not a walk in the park. There are quite a few things to be built before we can confidently begin showing this to people
+
+**Links:** N/A
