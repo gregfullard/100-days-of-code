@@ -396,3 +396,14 @@ Same as yesterday: Working through React/SpringBoot course. Also made significan
 **Thoughts:** MVP is not a walk in the park. There are quite a few things to be built before we can confidently begin showing this to people
 
 **Links:** N/A
+
+### Day 60: 2020-06-20
+
+**Today's Progress:**
+Still on the React journey. Arrow functions are still confusing me a bit - I will need to dig some more. 
+
+
+**Thoughts:** In general, as someone who learnt to code in the good ol' days, I really find the concept of passing function references as parameters a bit weird.
+
+**Links:** N/A
+
