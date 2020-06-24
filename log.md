@@ -402,7 +402,6 @@ Same as yesterday: Working through React/SpringBoot course. Also made significan
 **Today's Progress:**
 Still on the React journey. Arrow functions are still confusing me a bit - I will need to dig some more. 
 
-
 **Thoughts:** In general, as someone who learnt to code in the good ol' days, I really find the concept of passing function references as parameters a bit weird.
 
 **Links:** N/A
@@ -410,18 +409,14 @@ Still on the React journey. Arrow functions are still confusing me a bit - I wil
 ### Day 61: 2020-06-21
 
 **Today's Progress:**
-Finished the DevSkillDojo MVP mockups. Getting ready to switch gears to front-end development mode
-
+Finished the DevSkillDojo MVP mockups. Getting ready to switch gears to front-end development mode.  Also continued with the React/SpringBoot course
 
 **Thoughts:**
 
 **Links:** N/A
 
-
-### Day 61: 2020-06-21
-
-**Today's Progress:**
-Finished the DevSkillDojo MVP mockups. Getting ready to switch gears to front-end development mode. Also continued with the React/SpringBoot course
+### Day 62: 2020-06-24
+Finished the @DevSkillDojo MVP mockups in Balsamiq. Next step is to convert them to fully clickable HTML so that I begin to test the market. Very excited to see whether there is as much interest as I'm hoping for. React learning continuing as well. 
 
 **Thoughts:**
 
