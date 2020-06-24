@@ -407,3 +407,23 @@ Still on the React journey. Arrow functions are still confusing me a bit - I wil
 
 **Links:** N/A
 
+### Day 61: 2020-06-21
+
+**Today's Progress:**
+Finished the DevSkillDojo MVP mockups. Getting ready to switch gears to front-end development mode
+
+
+**Thoughts:**
+
+**Links:** N/A
+
+
+### Day 61: 2020-06-21
+
+**Today's Progress:**
+Finished the DevSkillDojo MVP mockups. Getting ready to switch gears to front-end development mode. Also continued with the React/SpringBoot course
+
+**Thoughts:**
+
+**Links:** N/A
+
