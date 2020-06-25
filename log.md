@@ -422,3 +422,10 @@ Finished the @DevSkillDojo MVP mockups in Balsamiq. Next step is to convert them
 
 **Links:** N/A
 
+### Day 63: 2020-06-25
+React, React, React. Spent some time reading the docs at https://reactjs.org/docs. Played around with BrowserRouter and the various optoins available.
+
+**Thoughts:**
+
+**Links:** N/A
+
