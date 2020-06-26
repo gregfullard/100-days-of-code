@@ -429,3 +429,10 @@ React, React, React. Spent some time reading the docs at https://reactjs.org/doc
 
 **Links:** N/A
 
+### Day 64: 2020-06-26
+Still Reacting to the world around me. Played with links and beginning to incorporate CSS into the exploration. As an experienced "Maker of Lists", I spent an hour this morning listing and categorising all the CSS properties, so that I know where to focus my learning attention.
+
+**Thoughts:**
+
+**Links:** N/A
+
