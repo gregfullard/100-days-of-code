@@ -436,3 +436,10 @@ Still Reacting to the world around me. Played with links and beginning to incorp
 
 **Links:** N/A
 
+### Day 65: 2020-06-27
+Finished the obligatory ToDo list app front-end in React. Now assembling a SpringBoot back back-end, so I can link it all together.
+
+**Thoughts:**
+
+**Links:** N/A
+
