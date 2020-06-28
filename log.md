@@ -448,8 +448,11 @@ Finished the obligatory ToDo list app front-end in React. Now assembling a Sprin
 Mamma mia. Just had a scuffle with the React BrowserRouter. It kept re-instantiating my components without approval from me! Thankfully I discovered 
 a great article series by @learnwithparam at https://learnwithparam.com/blog/how-to-pass-props-in-react-router/ that nicely described the issue. TLDR; Use render props, not component props.
 
-**Thoughts:**
+**Thoughts:** 
+Learnt a ton so far. and getting very positive about the Component model that React uses. 
 
-**Links:** N/A
+**Links:**
+* https://alligator.io/react/constructors-with-react-components/
+* https://learnwithparam.com/blog/how-to-pass-props-in-react-router/
 
 
