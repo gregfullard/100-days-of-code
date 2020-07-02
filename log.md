@@ -456,3 +456,10 @@ Learnt a ton so far. and getting very positive about the Component model that Re
 * https://learnwithparam.com/blog/how-to-pass-props-in-react-router/
 
 
+### Day 67-68: 2020-07-02
+Spent some time connecting my React front-end with the SpringBoot back end by using the Axios library. Was my first interaction with JavaScript promises, so it still feels a bit weird. But getting there, and certainly more elegant than the old-school JQuery Ajax method.
+
+**Thoughts:** 
+Definitely easier than JQuery
+
+**Links:**
