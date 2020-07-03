@@ -463,3 +463,11 @@ Spent some time connecting my React front-end with the SpringBoot back end by us
 Definitely easier than JQuery
 
 **Links:**
+
+### Day 69: 2020-07-03
+Explored some more details of the React component lifecycle while linking the front-end to the back-end. Will hopefully have the whole Todo app finished over the weekend, so we can start applying the knowledge gained.
+
+**Thoughts:** 
+
+**Links:**
+
