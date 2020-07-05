@@ -471,8 +471,16 @@ Explored some more details of the React component lifecycle while linking the fr
 
 **Links:**
 
-### Day 69: 2020-07-03
+### Day 69: 2020-07-04
 Finished all CRUD functionality on the ToDo app, using Formik forms in the process. Now just some some JWT security and JPA persistance and then I can say I've built my first full stack app using React and SpringBoot. Of course the style leaves much to be desired, but that'll come afterwards
+
+**Thoughts:** 
+
+**Links:**
+
+
+### Day 70: 2020-07-05
+Not a hugely productive day on the coding front. First got sidetracked with a DevSkillDojo blog, and then I began a deep dive into Spring Security, instead of just using the parts I need. But, still fun and valuable time spent
 
 **Thoughts:** 
 
