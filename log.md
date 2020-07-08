@@ -478,9 +478,15 @@ Finished all CRUD functionality on the ToDo app, using Formik forms in the proce
 
 **Links:**
 
-
 ### Day 70: 2020-07-05
 Not a hugely productive day on the coding front. First got sidetracked with a DevSkillDojo blog, and then I began a deep dive into Spring Security, instead of just using the parts I need. But, still fun and valuable time spent
+
+**Thoughts:** 
+
+**Links:**
+
+### Day 71: 2020-07-08
+Added some basic authentication logic using Axios. I'm still on my Spring Security detour, but forced myself to just disable CSRF checking and move on with the React App :)
 
 **Thoughts:** 
 
