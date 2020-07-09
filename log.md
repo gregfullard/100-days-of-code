@@ -492,3 +492,10 @@ Added some basic authentication logic using Axios. I'm still on my Spring Securi
 
 **Links:**
 
+### Day 72: 2020-07-09
+Finalised JWT authentication with Spring Security on the back-end and React on the front-end. Currently just using an in-memory list of users, but that will come soon :)
+
+**Thoughts:** 
+
+**Links:**
+
