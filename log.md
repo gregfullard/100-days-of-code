@@ -506,3 +506,10 @@ Finished the ToDo app with JPA persistence to an H2 in-memory DB. Now onto a pri
 
 **Links:**
 
+### Day 74: 2020-07-11
+Started working on one of the back-end Microservices for the DevSkillDojo MVP. Just enough to allow me to link the React front-end to something real.
+
+**Thoughts:** 
+
+**Links:**
+
