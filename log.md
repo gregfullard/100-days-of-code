@@ -499,3 +499,10 @@ Finalised JWT authentication with Spring Security on the back-end and React on t
 
 **Links:**
 
+### Day 73: 2020-07-10
+Finished the ToDo app with JPA persistence to an H2 in-memory DB. Now onto a private project
+
+**Thoughts:** 
+
+**Links:**
+
