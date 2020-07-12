@@ -513,3 +513,10 @@ Started working on one of the back-end Microservices for the DevSkillDojo MVP. J
 
 **Links:**
 
+### Day 75: 2020-07-12
+Switched over to the @DevSkillDojo MVP front-end. Played around with Redux a bit, to determine if it's the right tool for the job. Is suspect it is, but, YOH, it's yet another deep rabbit hole.
+
+**Thoughts:** 
+
+**Links:**
+
