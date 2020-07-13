@@ -520,7 +520,7 @@ Switched over to the @DevSkillDojo MVP front-end. Played around with Redux a bit
 
 **Links:**
 
-### Day 76: 2020-07-12
+### Day 76: 2020-07-13
 Wrangling with Redux. Spent some time ensuring the login state gets persisted (and retrieved from session storage if the user refresheds the browser). As expected, the rabbit hole is deep
 
 **Thoughts:** 
