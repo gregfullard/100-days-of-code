@@ -527,3 +527,10 @@ Wrangling with Redux. Spent some time ensuring the login state gets persisted (a
 
 **Links:**
 
+### Day 77: 2020-07-14
+Found a workaround to yesterday's redux issue, but it really feels like a hack. So I decided to take a step back and explore best practices for handling login state in a Redux application. And since my end-state is to use AWS Cognito, I'm using that for now.
+
+**Thoughts:** 
+
+**Links:**
+
