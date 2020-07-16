@@ -538,6 +538,11 @@ Found a workaround to yesterday's redux issue, but it really feels like a hack. 
 Client-side processing of login state finally working nicely using Redux and ReactRouter. Next up is linkiing to the Cognito back-end.
 
 **Thoughts:** 
+In the process came across Dan Abramov's explanations of Redux. Solid stuff:
+* https://egghead.io/courses/getting-started-with-redux
+* https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+
+Suspect I'mn gonna have to refactor my app onve I've worked through those, but I'm pushing ahead for now
 
 **Links:**
 
