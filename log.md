@@ -534,3 +534,12 @@ Found a workaround to yesterday's redux issue, but it really feels like a hack. 
 
 **Links:**
 
+### Day 78: 2020-07-16
+Client-side processing of login state finally working nicely using Redux and ReactRouter. Next up is linkiing to the Cognito back-end.
+
+**Thoughts:** 
+
+**Links:**
+
+
+
