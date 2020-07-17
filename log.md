@@ -546,5 +546,13 @@ Suspect I'mn gonna have to refactor my app onve I've worked through those, but I
 
 **Links:**
 
+### Day 79: 2020-07-17
+Completed User registration and login functionality against AWS Cognito User Pool. Which means that my excuses for postponing the styling are rapidly running out :)
+
+**Thoughts:** 
+
+**Links:**
+
+
 
 
