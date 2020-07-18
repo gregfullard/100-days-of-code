@@ -553,6 +553,12 @@ Completed User registration and login functionality against AWS Cognito User Poo
 
 **Links:**
 
+### Day 80: 2020-07-18
+Added react front-end functionality for navigating through the hierarchy of teams that will be coming from the SpringBoot API. Pretty chuffed that I am starting to "get" Redux.
+
+**Thoughts:** 
+
+**Links:**
 
 
 
