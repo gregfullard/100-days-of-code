@@ -568,7 +568,7 @@ Dayjob was a bit all-consuming, so I only continued my reading on CSS at MDN. Fi
 **Links:**
 
 
-### Day 81: 2020-07-20
+### Day 82: 2020-07-20
 Once again need to focus on the dayjob for the most part today, but I did spend time to create a stub user profile service in SpringBoot which will be called from React after the user is authenticated on Cognito. Will hopefully integrate into UI this evening
 
 **Thoughts:** 
