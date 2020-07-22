@@ -575,5 +575,19 @@ Once again need to focus on the dayjob for the most part today, but I did spend 
 
 **Links:**
 
+### Day 83: 2020-07-21
+Very hard day at the office. When I tried to link up my React front-end to the REST service I got blocked by a CORS issue. Even though I had the CrossOrigin annotation on my controller. Gave up after about 20 minutes of struggling :(
+
+**Thoughts:** 
+
+**Links:**
+
+
+### Day 84: 2020-07-22
+After I got up this morning, I saw that I typed the API URL wrong (localhost, instead of http://localhost), which was the cause of last night's inexplicable CORS error. Spent some time linking up the user profile page with the back-end, which included the creation of a user profile repository and some test data.
+
+**Thoughts:** 
+
+**Links:**
 
 
