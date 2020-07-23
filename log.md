@@ -590,4 +590,11 @@ After I got up this morning, I saw that I typed the API URL wrong (localhost, in
 
 **Links:**
 
+### Day 85: 2020-07-23
+Finally starting with the styling. Linked Bootstrap, React-Bootstrap and Sass. Starting to play around with some colours and images. This is, quite obviously, the area where my skills dry up very rapidly :)
+
+**Thoughts:** 
+
+**Links:**
+
 
