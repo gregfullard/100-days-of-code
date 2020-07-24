@@ -597,4 +597,11 @@ Finally starting with the styling. Linked Bootstrap, React-Bootstrap and Sass. S
 
 **Links:**
 
+### Day 86: 2020-07-24
+With 13 days left, the structure is beginning to show :) Still lots to do though. Today I added the initial version of the Navbar using React-Bootstrap.
+
+**Thoughts:** 
+
+**Links:**
+
 
