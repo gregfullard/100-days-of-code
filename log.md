@@ -604,4 +604,11 @@ With 13 days left, the structure is beginning to show :) Still lots to do though
 
 **Links:**
 
+### Day 87: 2020-07-25
+Slept a bit later on the Saturday morning, and with house-chores looming, I didn't have much time for dev. Nonetheless, I got a start on the @DevSkillDojo landing page. Let's hope I find some more time later today
+
+**Thoughts:** 
+
+**Links:**
+
 
