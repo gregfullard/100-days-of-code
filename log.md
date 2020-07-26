@@ -611,4 +611,11 @@ Slept a bit later on the Saturday morning, and with house-chores looming, I didn
 
 **Links:**
 
+### Day 88: 2020-07-26
+Finally happy with the landing page. Time to move on to meat and potatoes of the application. I'm thinking I'll first build it fully in React/Redux and then tie in the back-end afterwards. Forces me to focus on my weak point :)
+
+**Thoughts:** 
+
+**Links:**
+
 
