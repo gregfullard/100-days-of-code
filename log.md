@@ -618,4 +618,11 @@ Finally happy with the landing page. Time to move on to meat and potatoes of the
 
 **Links:**
 
+### Day 89: 2020-08-10
+Been 2 crazy weeks on the eastern front, so didn't have much time to work on side projects. However, I did finish the first version of the Innisfree Solutions website (Laboratory Technology business that I have a stake in). Also happened to be my first deployment to Netlify and it was such a breeze! Still some things I'd like to polish up, but it's online now. Here's the link: https://innisfree.tech/
+
+**Thoughts:** 
+
+**Links:**
+
 
