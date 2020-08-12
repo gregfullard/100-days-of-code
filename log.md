@@ -625,4 +625,11 @@ Been 2 crazy weeks on the eastern front, so didn't have much time to work on sid
 
 **Links:**
 
+### Day 90: 2020-08-12
+Spent time tinkering with the viewport-specific padding for the Innisfree website (https://innisfree.tech/). Looks half-decent on mobile now, so I'll let it soak in the sun for a while. Finally time to get back to the @DevSkillDojo app.
+
+**Thoughts:** 
+
+**Links:**
+
 
