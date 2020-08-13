@@ -634,6 +634,8 @@ Spent time tinkering with the viewport-specific padding for the Innisfree websit
 
 ### Day 91: 2020-08-12
 Build initial version of the Person screen for @DevSkillDojo. Just plain old React Bootstrap and Fontawesome at the moment. Also used the opportunity to introduce the useState hook (My first baby-step towards React Hooks).
+
 **Thoughts:** 
+Will definitely introduce React-Table next
 
 **Links:**
