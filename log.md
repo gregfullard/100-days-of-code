@@ -639,3 +639,11 @@ Build initial version of the Person screen for @DevSkillDojo. Just plain old Rea
 Will definitely introduce React-Table next
 
 **Links:**
+
+### Day 92 and 93: 2020-08-15
+Refactored the person table to use React-Table. This also included adding the row filtering and sorting.
+
+**Thoughts:** 
+Will definitely introduce React-Table next
+
+**Links:**
