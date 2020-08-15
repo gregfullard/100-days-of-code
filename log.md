@@ -644,6 +644,6 @@ Will definitely introduce React-Table next
 Refactored the person table to use React-Table. This also included adding the row filtering and sorting.
 
 **Thoughts:** 
-Will definitely introduce React-Table next
+Was a bit of a journey, because I needed to do a crash course in React hooks as well, but all worth it. Next step is to link up the back end. Don't really have a clue how the hooks will work with that...
 
 **Links:**
