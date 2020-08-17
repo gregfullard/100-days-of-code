@@ -647,3 +647,10 @@ Refactored the person table to use React-Table. This also included adding the ro
 Was a bit of a journey, because I needed to do a crash course in React hooks as well, but all worth it. Next step is to link up the back end. Don't really have a clue how the hooks will work with that...
 
 **Links:**
+
+### Day 94 and 95: 2020-08-17
+Spent some tack back in Java land, building the SpringBoot service that feeds the Person screen on the front-end. Lot's up JPA plumbing still needed - so it will probably take another day or two.
+
+**Thoughts:** 
+
+**Links:**
