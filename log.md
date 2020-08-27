@@ -654,3 +654,11 @@ Spent some time back in Java land, building the SpringBoot service that feeds th
 **Thoughts:** 
 
 **Links:**
+
+### Day 96: 2020-08-27
+With MANY stops and starts, I've finally found time today to assemble the bits-and-bobs that make the front-end person grid link up the the Spring-boot back end. Next stop: Adding a person
+
+**Thoughts:** 
+I definitely think it's important to just get the CRUD stack streamlined before we build out all of the screens
+
+**Links:**
