@@ -662,3 +662,10 @@ With MANY stops and starts, I've finally found time today to assemble the bits-a
 I definitely think it's important to just get the CRUD stack streamlined before we build out all of the screens
 
 **Links:**
+
+### Day 97: 2020-09-02
+Long day so far, trying to figure out the best approach for building a multi-select control in Formik. Just as I reached the home-straight, I discovered the react-select library. Sorted out all my issues :)
+
+**Thoughts:** 
+
+**Links:**
