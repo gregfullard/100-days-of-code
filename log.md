@@ -669,3 +669,10 @@ Long day so far, trying to figure out the best approach for building a multi-sel
 **Thoughts:** 
 
 **Links:**
+
+### Day 98: 2020-09-03
+Fully integrated the person creation screen with the Spring Boot back end. Lots of polish still required though w.r.t exception handling, data validation and UX. But it works. And my mantra is always: First make it work, then make it right, then make it fast
+
+**Thoughts:** 
+
+**Links:**
