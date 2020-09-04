@@ -676,3 +676,10 @@ Fully integrated the person creation screen with the Spring Boot back end. Lots 
 **Thoughts:** 
 
 **Links:**
+
+### Day 99: 2020-09-04
+Added Bean Validation to the person service in the back end. Also added additional checks for uniqueness constraint violations. On the front-end I added some Formik validations and error messages.
+
+**Thoughts:** 
+
+**Links:**
