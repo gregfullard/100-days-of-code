@@ -683,3 +683,28 @@ Added Bean Validation to the person service in the back end. Also added addition
 **Thoughts:** 
 
 **Links:**
+
+### Day 100: 2020-09-05
+Built skeleton person detail page and linked it up to the people page. Fixed up the styling of the people page to use Bootstrap throughout
+
+**Thoughts:** 
+Learnt a ton of stuff over the last 100 days (which was just under 6 months, so more in the line of 150 days, but that's how it goes. Definitely fonna do another 100, but absolutely feeling for comfortable
+
+**Links:**
+
+### Day R1D1: 2020-09-06
+Spent a lot of time working through a very valuable Formik tutorial from @CodevolutionWeb and am now starting to get more comfortable with the moving parts under the covers. Added editing capability via modal for basic person information
+
+**Thoughts:** 
+Starting to feel comfortable with Formik
+
+**Links:**
+
+### Day R1D2: 2020-09-07
+Linked up the Mapped skills table on the person details page. Quite a lot of back-end work to get this tied together nicely - Even needed a minor adjustment on the domain model.
+
+**Thoughts:** 
+Need to expand my test data a little bit.
+
+**Links:**
+
