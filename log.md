@@ -692,7 +692,7 @@ Learnt a ton of stuff over the last 100 days (which was just under 6 months, so 
 
 **Links:**
 
-### Day R1D1: 2020-09-06
+### Day R2D1: 2020-09-06
 Spent a lot of time working through a very valuable Formik tutorial from @CodevolutionWeb and am now starting to get more comfortable with the moving parts under the covers. Added editing capability via modal for basic person information
 
 **Thoughts:** 
@@ -700,11 +700,20 @@ Starting to feel comfortable with Formik
 
 **Links:**
 
-### Day R1D2: 2020-09-07
+### Day R2D2: 2020-09-07
 Linked up the Mapped skills table on the person details page. Quite a lot of back-end work to get this tied together nicely - Even needed a minor adjustment on the domain model.
 
 **Thoughts:** 
 Need to expand my test data a little bit.
 
 **Links:**
+
+### Day R2D3: 2020-09-08
+R2D3 #100DaysOfCode - Added search method to the Skills Ontology API and linked it up to the Skills Manager front-end using the rock-solid typeahead control from  Eric Giovanola (https://github.com/ericgio/react-bootstrap-typeahead)
+
+**Thoughts:** 
+Need to expand my test data a little bit.
+
+**Links:**
+
 
