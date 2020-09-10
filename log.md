@@ -716,4 +716,12 @@ Need to expand my test data a little bit.
 
 **Links:**
 
+### Day R2D4: 2020-09-09
+R2D4 #100DaysOfCode - Built API method for adding a list of new skills to a person and linked up the front-end using an Axios call. Some finesse needed to ensure that the skill object from the Ontology microservice aligns with ther structure needed by the Skills Manager app
+
+**Thoughts:** 
+Took quite a bit longer than expected
+
+**Links:**
+
 
