@@ -725,3 +725,12 @@ Took quite a bit longer than expected
 **Links:**
 
 
+### Day R2D5: 2020-09-10
+R2D5 #100DaysOfCode - Added stub API method for adjusting proficiency levels on specific skills. Also prepared the UI model, but didn't get enough time to wire them up yet. Will take up that battle tomorrow.
+
+**Thoughts:** 
+
+
+**Links:**
+
+
