@@ -733,4 +733,12 @@ R2D5 #100DaysOfCode - Added stub API method for adjusting proficiency levels on 
 
 **Links:**
 
+### Day R2D6: 2020-09-12
+R2D6 #100DaysOfCode - Wired up the proficiency adjustment functionality
+
+**Thoughts:** 
+
+
+**Links:**
+
 
