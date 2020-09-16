@@ -741,4 +741,27 @@ R2D6 #100DaysOfCode - Wired up the proficiency adjustment functionality
 
 **Links:**
 
+### Day R2D7: 2020-09-14
+R2D7 #100DaysOfCode - Added Reports page and began exploring authorisation for the back-end
+
+**Thoughts:** 
+
+
+**Links:**
+
+### Day R2D8: 2020-09-15
+R2D8 #100DaysOfCode - Added authorisation to the back-end using Spring security and AWS Cognito JWT tokens. Seems to work via Postman now, but still failing when calling via React
+
+**Thoughts:** 
+
+
+**Links:**
+
+### Day R2D9: 2020-09-16
+R2D9 #100DaysOfCode - Added Axios interceptor to add bearer token to all requests going to the server
+
+**Thoughts:** 
+
+
+**Links:**
 
