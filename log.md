@@ -765,3 +765,51 @@ R2D9 #100DaysOfCode - Added Axios interceptor to add bearer token to all request
 
 **Links:**
 
+### Day R2D10: 2020-09-17
+R2D10 #100DaysOfCode - Adding organization registration
+
+**Thoughts:** 
+
+
+**Links:**
+
+### Day R2D11: 2020-09-18
+R2D11 #100DaysOfCode - Continued with organization registration
+
+**Thoughts:** 
+
+
+**Links:**
+
+### Day R2D12: 2020-09-19
+R2D12 #100DaysOfCode -  - Continued with organization registration (Mainly on linking the Cognito data with the Spring-boot back end)
+
+**Thoughts:** 
+
+
+**Links:**
+
+### Day R2D13: 2020-09-20
+R2D13 #100DaysOfCode - Continued with organization registration
+
+**Thoughts:** 
+
+
+**Links:**
+
+### Day R2D14: 2020-09-21
+R2D14 #100DaysOfCode - Removed hard-coded organization id from front-end. Started working on View Account Profile
+
+**Thoughts:** 
+
+
+**Links:**
+
+### Day R2D15: 2020-09-22
+R2D15 #100DaysOfCode - Spenth most of the day refactoring back-end Spring controllers to ensure robust exception handling. Refactored where appropriate
+
+**Thoughts:** 
+
+
+**Links:**
+
