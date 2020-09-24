@@ -806,10 +806,17 @@ R2D14 #100DaysOfCode - Removed hard-coded organization id from front-end. Starte
 **Links:**
 
 ### Day R2D15: 2020-09-22
-R2D15 #100DaysOfCode - Spenth most of the day refactoring back-end Spring controllers to ensure robust exception handling. Refactored where appropriate
+R2D15 #100DaysOfCode - Spent most of the day refactoring back-end Spring controllers to ensure robust exception handling. Refactored where appropriate
 
 **Thoughts:** 
 
 
 **Links:**
 
+### Day R2D15: 2020-09-23
+R2D16 #100DaysOfCode - Added company account profile page as well as user profile page
+
+**Thoughts:** 
+
+
+**Links:**
