@@ -813,8 +813,8 @@ R2D15 #100DaysOfCode - Spent most of the day refactoring back-end Spring control
 
 **Links:**
 
-### Day R2D15: 2020-09-23
-R2D16 #100DaysOfCode - Added company account profile page as well as user profile page
+### Day R2D16: 2020-09-23
+R2D16 #100DaysOfCode - Added company account profile page. Also added user profile page and modal for changing basic user details. Was really focusing on data strcuture and redux flow, so styling still needs to be reworked.
 
 **Thoughts:** 
 
