@@ -820,3 +820,10 @@ R2D16 #100DaysOfCode - Added company account profile page. Also added user profi
 
 
 **Links:**
+
+### Day R2D17: 2020-09-24
+R2D17 #100DaysOfCode - Finishined change password functionality. In the process I introduced the React Context API to clean up some messy structures that were starting to develop. Just realised I probably need to add a Success notification though :)
+**Thoughts:** 
+
+
+**Links:**
