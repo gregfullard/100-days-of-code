@@ -822,7 +822,16 @@ R2D16 #100DaysOfCode - Added company account profile page. Also added user profi
 **Links:**
 
 ### Day R2D17: 2020-09-24
-R2D17 #100DaysOfCode - Finishined change password functionality. In the process I introduced the React Context API to clean up some messy structures that were starting to develop. Just realised I probably need to add a Success notification though :)
+R2D17 #100DaysOfCode - Finished change password functionality. In the process I introduced the React Context API to clean up some messy structures that were starting to develop. Just realised I probably need to add a Success notification though :)
+
+**Thoughts:** 
+
+
+**Links:**
+
+### Day R2D18: 2020-09-25
+R2D18 #100DaysOfCode - Began the exploration of platform choices for the skills repository. First up was Jekyll, which could be a very easy approach for storing the repository as pure markdown files on GitHub where anybody can make changes and submit PRs.
+
 **Thoughts:** 
 
 
