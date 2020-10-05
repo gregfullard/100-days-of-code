@@ -836,3 +836,11 @@ R2D18 #100DaysOfCode - Began the exploration of platform choices for the skills 
 
 
 **Links:**
+
+### Day R2D19: 2020-10-05
+R2D19 #100DaysOfCode - After a week of chiling, I'm back at it. Spent a lot of time getting familiar with Gatsby and I'm thoroughly convinced it is the most appropriate solution for the @DevSkillDojo skills knowledgebase (Sorry Jekyll, I met someone else)
+
+**Thoughts:** 
+
+
+**Links:**
