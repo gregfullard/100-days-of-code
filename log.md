@@ -844,3 +844,11 @@ R2D19 #100DaysOfCode - After a week of chiling, I'm back at it. Spent a lot of t
 
 
 **Links:**
+
+### Day R2D20: 2020-10-06
+R2D20 #100DaysOfCode - Spent some time playing with Snipcart to add shopping cart capability to a Gatsby site, as well as using Netlify for JWT-based authentication on Gatsby site. Now onto the meat and potatoes
+
+**Thoughts:** 
+
+
+**Links:**
