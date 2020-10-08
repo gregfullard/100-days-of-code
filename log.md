@@ -852,3 +852,11 @@ R2D20 #100DaysOfCode - Spent some time playing with Snipcart to add shopping car
 
 
 **Links:**
+
+### Day R2D21: 2020-10-07
+R2D21 #100DaysOfCode - Assembled the skeleton site for the @DevSkillDojo skills repository. Styling still to come. Essentially the goal of the repository is to allow people to explore the details of individual skills, but also the dependencies between skills.
+
+**Thoughts:** 
+
+
+**Links:**
