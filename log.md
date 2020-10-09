@@ -860,3 +860,11 @@ R2D21 #100DaysOfCode - Assembled the skeleton site for the @DevSkillDojo skills 
 
 
 **Links:**
+
+### Day R2D22: 2020-10-08
+R2D22 #100DaysOfCode - Stripped out default Gatsby styling and replaced with React-Bootstrap. Hopefully there'll be enough content to share before the end of the weekend
+
+**Thoughts:** 
+
+
+**Links:**
