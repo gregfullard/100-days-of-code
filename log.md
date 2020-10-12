@@ -868,3 +868,11 @@ R2D22 #100DaysOfCode - Stripped out default Gatsby styling and replaced with Rea
 
 
 **Links:**
+
+### Day R2D23-24: 2020-10-10
+R2D23-24 #100DaysOfCode - Added styling to the blog page, also built the styled skeleton of the skills repository page. Still a way to go, but we're chugging along :)
+
+**Thoughts:** 
+
+
+**Links:**
