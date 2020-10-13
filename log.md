@@ -876,3 +876,11 @@ R2D23-24 #100DaysOfCode - Added styling to the blog page, also built the styled 
 
 
 **Links:**
+
+### Day R2D25: 2020-10-12
+R2D25 #100DaysOfCode - After much deliberation, I've decided to drop Neo4J from the @DevSkillDojo tech stack and rather switch to DynamoDB. For my requirements it is just a better fit. Been digging into DynamoDB by working on https://www.dynamodbguide.com/ 
+
+**Thoughts:** 
+
+
+**Links:**
