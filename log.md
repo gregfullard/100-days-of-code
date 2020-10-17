@@ -884,3 +884,11 @@ R2D25 #100DaysOfCode - After much deliberation, I've decided to drop Neo4J from 
 
 
 **Links:**
+
+### Day R2D26-27: 2020-10-16
+R2D26-27 #100DaysOfCode - Implemented the first try of the @DevSkillDojo skills ontology on DynamoDB. Needed to get familiar with the AWS Python SDK in the process. Also realised that to enable advanced skills searching I'd need to create an ElasticSearch index of the ontology. 
+
+**Thoughts:** 
+
+
+**Links:**
