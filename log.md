@@ -892,3 +892,12 @@ R2D26-27 #100DaysOfCode - Implemented the first try of the @DevSkillDojo skills 
 
 
 **Links:**
+
+### Day R2D28-29: 2020-10-19
+R2D28-29 #100DaysOfCode - Still struggling to get AWS Lambda function to successfully pull data from DynamoDB stream and push to ElasticSearch. Seems my IAM knowledge needs some work :)
+Also played with ODK for the lab side, and was very impressed.
+
+**Thoughts:** 
+
+
+**Links:**
