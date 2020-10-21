@@ -901,3 +901,18 @@ Also played with ODK for the lab side, and was very impressed.
 
 
 **Links:**
+
+
+### Day R2D30: 2020-10-20
+R2D30 #100DaysOfCode - finally figured out the last piece of the puzzle needed to build, index and search the skills ontology on AWS. This includes:
+- Writing the ontology record to DynamoDB
+- Reading the DynamoDB stream with a Lambda Function
+- Putting the ontology record on ElasticSearch cluster from the Lambda function
+
+Now to assemble the parts
+
+**Thoughts:** 
+
+
+**Links:**
+
