@@ -916,3 +916,11 @@ Now to assemble the parts
 
 **Links:**
 
+
+### Day R2D31: 2020-10-21
+R2D31 #100DaysOfCode - Built Boto3 (AWS Python SDK) script that provisions (and destroys) DynamoDB, IAM Policies and Roles. Next up: Creating and deploying a Lambda function from the Boto3 script
+
+**Thoughts:** 
+
+
+**Links:**
