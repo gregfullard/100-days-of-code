@@ -924,3 +924,12 @@ R2D31 #100DaysOfCode - Built Boto3 (AWS Python SDK) script that provisions (and 
 
 
 **Links:**
+
+
+### Day R2D32-34: 2020-10-25
+R2D32-34 #100DaysOfCode - Updated Boto3 script to deploy (and destroy) Lambda function which reads DynamoDB stream and updated ES index. Lots of lessons learnt about IAM, ES and Lambda along the way :) 
+
+**Thoughts:** 
+
+
+**Links:**
