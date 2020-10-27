@@ -933,3 +933,12 @@ R2D32-34 #100DaysOfCode - Updated Boto3 script to deploy (and destroy) Lambda fu
 
 
 **Links:**
+
+
+### Day R2D35: 2020-10-26
+R2D35 #100DaysOfCode - Added Lambda function for searching against the skills index in ElasticSearch. Next step is to expose it via AWS API Gateway, and then finally, FINALLY I can get back to the front-end which needs to use the search capability
+
+**Thoughts:** 
+
+
+**Links:**
