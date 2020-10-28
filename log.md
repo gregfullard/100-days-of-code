@@ -698,15 +698,11 @@ Spent a lot of time working through a very valuable Formik tutorial from @Codevo
 **Thoughts:** 
 Starting to feel comfortable with Formik
 
-**Links:**
-
 ### Day R2D2: 2020-09-07
 Linked up the Mapped skills table on the person details page. Quite a lot of back-end work to get this tied together nicely - Even needed a minor adjustment on the domain model.
 
 **Thoughts:** 
 Need to expand my test data a little bit.
-
-**Links:**
 
 ### Day R2D3: 2020-09-08
 R2D3 #100DaysOfCode - Added search method to the Skills Ontology API and linked it up to the Skills Manager front-end using the rock-solid typeahead control from  Eric Giovanola (https://github.com/ericgio/react-bootstrap-typeahead)
@@ -714,194 +710,78 @@ R2D3 #100DaysOfCode - Added search method to the Skills Ontology API and linked 
 **Thoughts:** 
 Need to expand my test data a little bit.
 
-**Links:**
-
 ### Day R2D4: 2020-09-09
 R2D4 #100DaysOfCode - Built API method for adding a list of new skills to a person and linked up the front-end using an Axios call. Some finesse needed to ensure that the skill object from the Ontology microservice aligns with ther structure needed by the Skills Manager app
 
 **Thoughts:** 
 Took quite a bit longer than expected
 
-**Links:**
-
-
 ### Day R2D5: 2020-09-10
 R2D5 #100DaysOfCode - Added stub API method for adjusting proficiency levels on specific skills. Also prepared the UI model, but didn't get enough time to wire them up yet. Will take up that battle tomorrow.
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D6: 2020-09-12
 R2D6 #100DaysOfCode - Wired up the proficiency adjustment functionality
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D7: 2020-09-14
 R2D7 #100DaysOfCode - Added Reports page and began exploring authorisation for the back-end
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D8: 2020-09-15
 R2D8 #100DaysOfCode - Added authorisation to the back-end using Spring security and AWS Cognito JWT tokens. Seems to work via Postman now, but still failing when calling via React
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D9: 2020-09-16
 R2D9 #100DaysOfCode - Added Axios interceptor to add bearer token to all requests going to the server
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D10: 2020-09-17
 R2D10 #100DaysOfCode - Adding organization registration
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D11: 2020-09-18
 R2D11 #100DaysOfCode - Continued with organization registration
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D12: 2020-09-19
 R2D12 #100DaysOfCode -  - Continued with organization registration (Mainly on linking the Cognito data with the Spring-boot back end)
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D13: 2020-09-20
 R2D13 #100DaysOfCode - Continued with organization registration
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D14: 2020-09-21
 R2D14 #100DaysOfCode - Removed hard-coded organization id from front-end. Started working on View Account Profile
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D15: 2020-09-22
 R2D15 #100DaysOfCode - Spent most of the day refactoring back-end Spring controllers to ensure robust exception handling. Refactored where appropriate
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D16: 2020-09-23
 R2D16 #100DaysOfCode - Added company account profile page. Also added user profile page and modal for changing basic user details. Was really focusing on data strcuture and redux flow, so styling still needs to be reworked.
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D17: 2020-09-24
 R2D17 #100DaysOfCode - Finished change password functionality. In the process I introduced the React Context API to clean up some messy structures that were starting to develop. Just realised I probably need to add a Success notification though :)
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D18: 2020-09-25
 R2D18 #100DaysOfCode - Began the exploration of platform choices for the skills repository. First up was Jekyll, which could be a very easy approach for storing the repository as pure markdown files on GitHub where anybody can make changes and submit PRs.
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D19: 2020-10-05
 R2D19 #100DaysOfCode - After a week of chiling, I'm back at it. Spent a lot of time getting familiar with Gatsby and I'm thoroughly convinced it is the most appropriate solution for the @DevSkillDojo skills knowledgebase (Sorry Jekyll, I met someone else)
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D20: 2020-10-06
 R2D20 #100DaysOfCode - Spent some time playing with Snipcart to add shopping cart capability to a Gatsby site, as well as using Netlify for JWT-based authentication on Gatsby site. Now onto the meat and potatoes
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D21: 2020-10-07
 R2D21 #100DaysOfCode - Assembled the skeleton site for the @DevSkillDojo skills repository. Styling still to come. Essentially the goal of the repository is to allow people to explore the details of individual skills, but also the dependencies between skills.
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D22: 2020-10-08
 R2D22 #100DaysOfCode - Stripped out default Gatsby styling and replaced with React-Bootstrap. Hopefully there'll be enough content to share before the end of the weekend
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D23-24: 2020-10-10
 R2D23-24 #100DaysOfCode - Added styling to the blog page, also built the styled skeleton of the skills repository page. Still a way to go, but we're chugging along :)
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D25: 2020-10-12
 R2D25 #100DaysOfCode - After much deliberation, I've decided to drop Neo4J from the @DevSkillDojo tech stack and rather switch to DynamoDB. For my requirements it is just a better fit. Been digging into DynamoDB by working on https://www.dynamodbguide.com/ 
 
-**Thoughts:** 
-
-
-**Links:**
-
 ### Day R2D26-27: 2020-10-16
 R2D26-27 #100DaysOfCode - Implemented the first try of the @DevSkillDojo skills ontology on DynamoDB. Needed to get familiar with the AWS Python SDK in the process. Also realised that to enable advanced skills searching I'd need to create an ElasticSearch index of the ontology. 
-
-**Thoughts:** 
-
-
-**Links:**
 
 ### Day R2D28-29: 2020-10-19
 R2D28-29 #100DaysOfCode - Still struggling to get AWS Lambda function to successfully pull data from DynamoDB stream and push to ElasticSearch. Seems my IAM knowledge needs some work :)
 Also played with ODK for the lab side, and was very impressed.
-
-**Thoughts:** 
-
-
-**Links:**
-
 
 ### Day R2D30: 2020-10-20
 R2D30 #100DaysOfCode - finally figured out the last piece of the puzzle needed to build, index and search the skills ontology on AWS. This includes:
@@ -911,34 +791,17 @@ R2D30 #100DaysOfCode - finally figured out the last piece of the puzzle needed t
 
 Now to assemble the parts
 
-**Thoughts:** 
-
-
-**Links:**
-
-
 ### Day R2D31: 2020-10-21
 R2D31 #100DaysOfCode - Built Boto3 (AWS Python SDK) script that provisions (and destroys) DynamoDB, IAM Policies and Roles. Next up: Creating and deploying a Lambda function from the Boto3 script
-
-**Thoughts:** 
-
-
-**Links:**
-
 
 ### Day R2D32-34: 2020-10-25
 R2D32-34 #100DaysOfCode - Updated Boto3 script to deploy (and destroy) Lambda function which reads DynamoDB stream and updated ES index. Lots of lessons learnt about IAM, ES and Lambda along the way :) 
 
-**Thoughts:** 
-
-
-**Links:**
-
+### Day R2D35: 2020-10-26
+R2D35 #100DaysOfCode - Added Lambda function for searching against the skills index in ElasticSearch. Next step is to expose it via AWS API Gateway, and then finally, FINALLY I can get back to the front-end which needs to use the search capability
 
 ### Day R2D35: 2020-10-26
 R2D35 #100DaysOfCode - Added Lambda function for searching against the skills index in ElasticSearch. Next step is to expose it via AWS API Gateway, and then finally, FINALLY I can get back to the front-end which needs to use the search capability
 
-**Thoughts:** 
-
-
-**Links:**
+### Day R2D36: 2020-10-28
+R2D36 #100DaysOfCode - Built and deployed REST API via AWS API Gateway. Currently just updating Boto3 scripts to fully bootstrap the entire @DevSkillDojo skills ontology platform. This includes DynamoDB, Various Lambda functions, ElasticSearch domain, SQS queues, REST APIs and the IAM configs holding them together.
