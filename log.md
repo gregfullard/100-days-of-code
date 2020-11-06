@@ -807,4 +807,4 @@ R2D35 #100DaysOfCode - Added Lambda function for searching against the skills in
 R2D36 #100DaysOfCode - Built and deployed REST API via AWS API Gateway. Currently just updating Boto3 scripts to fully bootstrap the entire @DevSkillDojo skills ontology platform. This includes DynamoDB, Various Lambda functions, ElasticSearch domain, SQS queues, REST APIs and the IAM configs holding them together.
 
 ### Day R2D37: 2020-11-05
-R2D37 #100DaysOfCode - After a week time spent on other I got back into the game with @devSkillDojo development. Fixed some shortcomings on the Boto3 script that provisions the search API on AWS API Gateway
+R2D37 #100DaysOfCode - After a week time spent on other I got back into the game with @devSkillDojo development. Fixed some shortcomings on the Boto3 script that provisions the search API on AWS API Gateway. Key lesson: Working with the API helps you understand AWS services a lot better than simply working in the console
