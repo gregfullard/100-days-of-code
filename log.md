@@ -809,7 +809,9 @@ R2D36 #100DaysOfCode - Built and deployed REST API via AWS API Gateway. Currentl
 ### Day R2D37: 2020-11-05
 R2D37 #100DaysOfCode - After a week time spent on other I got back into the game with @devSkillDojo development. Fixed some shortcomings on the Boto3 script that provisions the search API on AWS API Gateway. Key lesson: Working with the API helps you understand AWS services a lot better than simply working in the console
 
-### Day R2D37: 2020-11-09
+### Day R2D38-39: 2020-11-09
 R2D38-39 #100DaysOfCode - Yippee! Three weeks after I decided to pivot from a custom Neo4J deployment to a serverless AWS stack for the Skills Ontology (What I thought would be a 2-day detour), today I finally linked up the @DevSkillDojo UI to the Ontology Search API. Been a journey, but have been very impressed with AWS.
 
+### Day R2D40: 2020-11-10
+R2D40 #100DaysOfCode - Aligned test data on Dynamo/ElasticSearch ontology with the Markdown files used by the repository web app. Two critical next steps now: Ensure the rendered HTML from markdown files look half-decent, and create data loader which populated DynamodDb from the Markdown data. Gonna be an interesting week.
 
