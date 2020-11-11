@@ -815,3 +815,5 @@ R2D38-39 #100DaysOfCode - Yippee! Three weeks after I decided to pivot from a cu
 ### Day R2D40: 2020-11-10
 R2D40 #100DaysOfCode - Aligned test data on Dynamo/ElasticSearch ontology with the Markdown files used by the repository web app. Two critical next steps now: Ensure the rendered HTML from markdown files look half-decent, and create data loader which populated DynamodDb from the Markdown data. Gonna be an interesting week.
 
+### Day R2D41: 2020-11-11
+R2D41 #100DaysOfCode - Spent the morning on minor adjustments to the DynamoDB data model and the corresponding markdown file format. At this stage I will be able to dynamically populate the ontolodgy using only front-matter from the markdown file. Will look at that tomorrow..
