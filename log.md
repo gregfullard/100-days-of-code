@@ -817,3 +817,6 @@ R2D40 #100DaysOfCode - Aligned test data on Dynamo/ElasticSearch ontology with t
 
 ### Day R2D41: 2020-11-11
 R2D41 #100DaysOfCode - Spent the morning on minor adjustments to the DynamoDB data model and the corresponding markdown file format. At this stage I will be able to dynamically populate the ontolodgy using only front-matter from the markdown file. Will look at that tomorrow..
+
+### Day R2D42: 2020-11-12
+R2D42 #100DaysOfCode - Battling a bit with the mindshift from a typical Relational design to "Single-Table" design with DynamoDB
