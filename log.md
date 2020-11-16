@@ -820,3 +820,6 @@ R2D41 #100DaysOfCode - Spent the morning on minor adjustments to the DynamoDB da
 
 ### Day R2D42: 2020-11-12
 R2D42 #100DaysOfCode - Battling a bit with the mindshift from a typical Relational design to "Single-Table" design with DynamoDB
+
+### Day R2D43: 2020-11-16
+R2D43 #100DaysOfCode - Played aroud with Boto3's query method (instead of get_item) to find and and update eixsting skills in the DynamoDB table. To anyone comaning into DynamoDb from a relational background, I'd advise having a look at this talk by Alex DeBrie: https://www.youtube.com/watch?v=DIQVJqiSUkE 
