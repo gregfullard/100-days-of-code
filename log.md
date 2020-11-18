@@ -823,3 +823,8 @@ R2D42 #100DaysOfCode - Battling a bit with the mindshift from a typical Relation
 
 ### Day R2D43: 2020-11-16
 R2D43 #100DaysOfCode - Played aroud with Boto3's query method (instead of get_item) to find and and update eixsting skills in the DynamoDB table. To anyone comaning into DynamoDb from a relational background, I'd advise having a look at this talk by Alex DeBrie: https://www.youtube.com/watch?v=DIQVJqiSUkE 
+
+### Day R2D44: 2020-11-17
+R2D44 #100DaysOfCode - Added python method to parse a markdown file, pull the frontmatter, calculate the ontologyId and then load to DynamoDB. Next up: Stepping through a directory tree, loading all the skills into the ontology. 
+
+
