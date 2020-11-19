@@ -827,4 +827,6 @@ R2D43 #100DaysOfCode - Played aroud with Boto3's query method (instead of get_it
 ### Day R2D44: 2020-11-17
 R2D44 #100DaysOfCode - Added python method to parse a markdown file, pull the frontmatter, calculate the ontologyId and then load to DynamoDB. Next up: Stepping through a directory tree, loading all the skills into the ontology. 
 
+### Day R2D45: 2020-11-18
+R2D45 #100DaysOfCode - Wrapped up the generation of all skills pages from the directory of markdown files. Finally started moving back into Gatsby work by moving content from my old Ghost blog into the new Gatsby version. Should hopefully be a matter of days before I can migrate the live site.
 
