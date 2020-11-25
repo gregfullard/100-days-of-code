@@ -832,3 +832,6 @@ R2D45 #100DaysOfCode - Wrapped up the generation of all skills pages from the di
 
 ### Day R2D46-49: 2020-11-23
 R2D46-49 #100DaysOfCode - Still busy migrating markdown from Ghost to Gatsby. About 60% done. In the meantime, I've decided to begin working on the content for the first post that is planned for the new Gatsby blog - A week-long public learning exercise focussed on AWS CloudFront. Join me at @DevSkillDojo if you're keen
+
+### Day R2D50-51: 2020-11-25
+R2D50-51 #100DaysOfCode - At last I've managed to convert all the old Ghost blog posts to pure markdown. Still not 100% happy with the styling, but it'll have to do for now. MVP, as they say... Targeting deployment to prod this Friday :)
