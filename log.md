@@ -835,3 +835,6 @@ R2D46-49 #100DaysOfCode - Still busy migrating markdown from Ghost to Gatsby. Ab
 
 ### Day R2D50-51: 2020-11-25
 R2D50-51 #100DaysOfCode - At last I've managed to convert all the old Ghost blog posts to pure markdown. Still not 100% happy with the styling, but it'll have to do for now. MVP, as they say... Targeting deployment to prod this Friday :)
+
+### Day R2D52: 2020-12-01
+R2D52 #100DaysOfCode - Moved last bits of content over to the new Gatsby site. Commented sections out that are not ready for the live site. Deployed to S3 using gatsby-s3-plugin. Will wrap the CloudFront tomorrow. For now, here's the link: http://www.devskilldojo.com.s3-website-us-east-1.amazonaws.com/
