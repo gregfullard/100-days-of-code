@@ -838,3 +838,6 @@ R2D50-51 #100DaysOfCode - At last I've managed to convert all the old Ghost blog
 
 ### Day R2D52: 2020-12-01
 R2D52 #100DaysOfCode - Moved last bits of content over to the new Gatsby site. Commented sections out that are not ready for the live site. Deployed to S3 using gatsby-s3-plugin. Will wrap the CloudFront tomorrow. For now, here's the link: http://www.devskilldojo.com.s3-website-us-east-1.amazonaws.com/
+
+### Day R2D53: 2020-12-02
+R2D53 #100DaysOfCode - Replaced default Gatsby footer with something more appropriate. Also added skeleton pages for each of the footer links. Succeeded in getting my TLS certificate issued through AWS Certificate Manager. Hopefully I can do a full deploy today.
