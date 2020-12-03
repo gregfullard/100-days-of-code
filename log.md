@@ -841,3 +841,6 @@ R2D52 #100DaysOfCode - Moved last bits of content over to the new Gatsby site. C
 
 ### Day R2D53: 2020-12-02
 R2D53 #100DaysOfCode - Replaced default Gatsby footer with something more appropriate. Also added skeleton pages for each of the footer links. Succeeded in getting my TLS certificate issued through AWS Certificate Manager. Hopefully I can do a full deploy today.
+
+### Day R2D54: 2020-12-03
+R2D54 #100DaysOfCode - Not sure I can call this "Coding", but I spent today's hour on writing the content for the About Us page. Always surprises me how long it takes to write content. Still battling with my hosting provider to get DNS sorted so we can get the site properly online.
