@@ -844,3 +844,6 @@ R2D53 #100DaysOfCode - Replaced default Gatsby footer with something more approp
 
 ### Day R2D54: 2020-12-03
 R2D54 #100DaysOfCode - Not sure I can call this "Coding", but I spent today's hour on writing the content for the About Us page. Always surprises me how long it takes to write content. Still battling with my hosting provider to get DNS sorted so we can get the site properly online.
+
+### Day R2D55: 2020-12-04
+R2D55 #100DaysOfCode - Credits page added, which contains a detailed list that credits all photographers who graciously shgare their work online. Also made a temporary DNS change which allows me to access the old Ghost site and the new Gatsby site (https://www.devskilldojo.com/)   
