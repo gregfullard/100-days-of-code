@@ -847,3 +847,6 @@ R2D54 #100DaysOfCode - Not sure I can call this "Coding", but I spent today's ho
 
 ### Day R2D55: 2020-12-04
 R2D55 #100DaysOfCode - Credits page added, which contains a detailed list that credits all photographers who graciously shgare their work online. Also made a temporary DNS change which allows me to access the old Ghost site and the new Gatsby site (https://www.devskilldojo.com/)   
+
+### Day R2D56: 2020-12-08
+R2D56 #100DaysOfCode - Built and linked newsletter subscription form to MailChimp backend. Was much simpler than I anticipated, due to the cool community plugin by @benhoffman_ (https://github.com/benjaminhoffman/gatsby-plugin-mailchimp)
