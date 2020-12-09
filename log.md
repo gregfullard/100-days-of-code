@@ -850,3 +850,6 @@ R2D55 #100DaysOfCode - Credits page added, which contains a detailed list that c
 
 ### Day R2D56: 2020-12-08
 R2D56 #100DaysOfCode - Built and linked newsletter subscription form to MailChimp backend. Was much simpler than I anticipated, due to the cool community plugin by @benhoffman_ (https://github.com/benjaminhoffman/gatsby-plugin-mailchimp)
+
+### Day R2D57: 2020-12-09
+R2D57 #100DaysOfCode - Updated the newletter subscription form and added a welcome email that is sent immediately after subscription. In the process I had to leverage my (almost non-existent) photoshop skills to assemble an attempted logo :)
